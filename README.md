@@ -4,4 +4,4 @@ achievements in a visually appealing and user-friendly manner. The projects disp
 from API integrations to full-stack development. Interactive elements and smooth navigation enhance the user 
 experience, making it easy for visitors to explore my work. This portfolio not only demonstrates my technical 
 abilities but also my commitment to delivering high-quality digital solutions.
-https://myportfolio12a.netlify.app/------> Deployed Link
+Deployed Link https://myportfolio12a.netlify.app/ 
